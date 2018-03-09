@@ -1,0 +1,23 @@
+.tickers {
+        list-style-type: none;
+        padding: 0;
+        display: inline-flex;
+        
+    }
+
+.tickers-container{
+
+	background-image: url(Crypt.jpg);
+	height: 100%;
+	background-position: 50% 50%;
+
+}
+.tick {
+	font-family:Arial;
+	color:yellow;
+	font-size:20px;
+
+}
+a{
+	color:yellow;
+}
